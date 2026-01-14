@@ -6,11 +6,6 @@ This project focuses on **privacy, offline inference, and system-level understan
 All inference, memory, and data remain on the user’s machine.  
 No external APIs. No telemetry. No cloud inference.
 
----
-
-## 📸 Screenshots
-
-### Main Interface
 ![Main Interface](screenshots/main-ui.png)
 
 # Features
